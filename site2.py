@@ -42,7 +42,6 @@ explainerModel = shap.TreeExplainer(model)
 
 #def run():
 
-exp = shap.TreeExplainer(model).expected_value[0]
 
 st.title("CREDIT PREDICTION")
 st.header('Influence des criteres sur le choix')
