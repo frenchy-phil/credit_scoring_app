@@ -2,8 +2,6 @@ pycaret
 streamlit
 pandas
 numpy
-
-PIL
 seaborn
 matplotlib
 pickle
